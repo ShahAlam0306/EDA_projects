@@ -1,0 +1,1 @@
+This project demonstrates an end-to-end HR analytics workflow, starting with exploratory data analysis (EDA) in Python to identify attrition drivers, followed by an interactive Power BI dashboard to communicate insights to stakeholders.
