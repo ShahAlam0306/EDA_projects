@@ -130,14 +130,6 @@ Medical_Insurance_Analysis/
 ├── Analysis.ipynb
 ├── insurance.csv
 ├── README.md
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── distribution_plots.png
-│   └── boxplots.png
-│
-└── requirements.txt
-```
 
 ---
 
